@@ -44,8 +44,6 @@ For our next steps, we would like to look at more recent flu survey data, so as 
 
 - https://github.com/emykes/Flu_Vaccination_ML/blob/main/Phase3_Project_Slides.pdf
 
-### Team Members
+### Contributor
 
-- Brooke Smyth: https://github.com/brooke57
-- Emine Kesici: https://github.com/emykes
-- Tamiru B. Denka: https://github.com/Tamiru3
+Author : Aarti Jadhav
