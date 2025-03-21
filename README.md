@@ -40,10 +40,6 @@ For our next steps, we would like to look at more recent flu survey data, so as 
 - Final notebook: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_Main_Notebook.ipynb
 - Modeling iterations: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_model_iterations.ipynb
 
-### Presentation
-
-- https://github.com/emykes/Flu_Vaccination_ML/blob/main/Phase3_Project_Slides.pdf
-
 ### Contributor
 
 Author : Aarti Jadhav
